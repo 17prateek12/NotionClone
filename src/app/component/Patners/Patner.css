@@ -1,0 +1,63 @@
+.aii{
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4%;
+}
+.power{
+    font-size: 28px;
+    text-align: center;
+}
+.read{
+    font-size: 24px;
+    text-align: center;
+    color: rgb(0, 110, 255);
+    margin-bottom: 5%;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    column-gap: 5%;
+}
+.tools{
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.cut{
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;  
+}
+.pencil{
+    margin-left: 67%;
+    margin-top: -18%;
+}
+.merge{
+    margin-left: 18%;
+}
+.lastdiv{
+    margin-top: 8%;
+}
+.text2{
+   font-size: 40px;
+   text-align: center;
+}
+.final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.justin{
+    font-size: 20px;
+    font-weight: bold;
+}
+.dic{
+    font-size: 20px;
+}

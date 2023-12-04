@@ -1,0 +1,96 @@
+.get{
+    font-size: 80px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.textt1{
+    font-size: 28px;
+    text-align: center;
+}
+
+.contains{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    column-gap: 20px;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    padding: auto;
+    color: white;
+    font-size: 24px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.link{
+    font-size: 24px;
+    color: rgb(68, 68, 239);
+}
+.imageps{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid black;
+    column-gap: 40px;
+    margin-bottom: 10%;
+    padding-top: 40px;
+}
+
+.col1{
+    width: 400px;
+    margin: auto;
+
+}
+.notionlogo{
+    margin-left: 20px;
+    display: flex;
+    
+}
+.notion{
+    color:black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.iconn{
+    display: flex;
+    column-gap: 20px;
+    margin-top: 40px;
+}
+
+.iconsize{
+    height: 40px;
+    width: 40px;
+    fill: gray;
+}
+
+.form{
+    width: 320px;
+    margin-top: 20px;
+}
+
+.imp{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.rest{
+    font-size: 24px;
+    color: grey;
+}
+
+.do{
+    font-size: 20px;
+    margin-top: 60px;
+}

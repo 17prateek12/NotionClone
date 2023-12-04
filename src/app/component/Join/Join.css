@@ -1,0 +1,87 @@
+.join{
+    font-size: 64px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10% ;
+}
+.crea{
+    font-size: 64px;
+    text-align: center;
+    font-weight: bold;
+}
+.un{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 1%;
+}
+.more{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 1%;
+}
+.learn{
+    font-size: 24px;
+    text-align: center;
+}
+.imgpos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -5%;
+}
+.more2{
+    display: flex;
+    justify-content: center;
+    column-gap: 60px;
+    margin-top: 5%;
+}
+.cards{
+    width: 200px;
+    background-color: rgb(209, 208, 208);
+}
+.main{
+    font-size: 80px;
+    font-weight: bold;
+    color: rgb(75, 75, 234);
+    margin-top: 8%;
+    margin-left: 8%;
+
+}
+.sub{
+   font-size: 24px;
+   margin-left: 8%;
+   margin-top: 1%;
+   font-weight: 500;
+}
+
+.main2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 8%;
+    margin-left: 8%;
+}
+.sub2{
+    font-size: 28px;
+    margin-top: 1%;
+    margin-left: 8%;
+    margin-right: 6%;
+}
+.cardss{
+    height: 700px;
+    width: 820px;
+    background-color: rgb(224, 221, 221);
+    border-radius: 20px;
+}
+.imgpo{
+    display: block;
+    margin-left: auto;
+    margin-top: 17%;
+}
+
+.place{
+    height: 200px;
+    width: 520px;
+    background-color: rgb(224, 221, 221);
+    border-radius: 20px;
+}

@@ -1,0 +1,66 @@
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.notionlogo{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.notion{
+    color:black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.op{
+    color: black;
+    margin-left: 30px;
+    word-spacing: 40px;
+    font-size: 22px;
+}
+
+.log{
+    display: flex;
+    align-items: center;
+    right: 0 ;
+    margin-left: auto;
+    margin-right: 20px;
+  }
+
+.request{
+    border-radius: 8px;
+    font-size: 24px;
+    padding:10px;
+    background-color: white;
+    color:black;
+    border: none;
+    font-weight: 400;
+}
+.request:hover{
+    background-color: rgba(238, 232, 232, 0.932);
+}
+
+.bar{
+    font-size: large;
+    color: gray;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.getnotion{
+    border-radius: 8px;
+    font-size: 20px;
+    padding:auto;
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 172px;
+    margin-left: 25px;   
+}
+.getnotion:hover{
+    opacity: 0.7;
+}
